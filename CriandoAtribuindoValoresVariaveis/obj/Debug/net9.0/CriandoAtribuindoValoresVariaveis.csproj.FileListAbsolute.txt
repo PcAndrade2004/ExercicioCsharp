@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\bin\Debug\net9.0\CriandoAtribuindoValoresVariaveis.exe
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\bin\Debug\net9.0\CriandoAtribuindoValoresVariaveis.deps.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\bin\Debug\net9.0\CriandoAtribuindoValoresVariaveis.runtimeconfig.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\bin\Debug\net9.0\CriandoAtribuindoValoresVariaveis.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\bin\Debug\net9.0\CriandoAtribuindoValoresVariaveis.pdb
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.AssemblyInfo.cs
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.sourcelink.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\refint\CriandoAtribuindoValoresVariaveis.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.pdb
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\CriandoAtribuindoValoresVariaveis.genruntimeconfig.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\CriandoAtribuindoValoresVariaveis\obj\Debug\net9.0\ref\CriandoAtribuindoValoresVariaveis.dll

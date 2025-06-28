@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\bin\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.exe
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\bin\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.deps.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\bin\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.runtimeconfig.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\bin\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\bin\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.pdb
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.AssemblyInfo.cs
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.sourcelink.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\refint\VariavelNotaDoubleUsandoNullableTypes.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.pdb
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\VariavelNotaDoubleUsandoNullableTypes.genruntimeconfig.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelNotaDoubleUsandoNullableTypes\obj\Debug\net9.0\ref\VariavelNotaDoubleUsandoNullableTypes.dll

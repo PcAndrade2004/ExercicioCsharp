@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\bin\Debug\net9.0\VariavelDataAtribuindo.exe
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\bin\Debug\net9.0\VariavelDataAtribuindo.deps.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\bin\Debug\net9.0\VariavelDataAtribuindo.runtimeconfig.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\bin\Debug\net9.0\VariavelDataAtribuindo.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\bin\Debug\net9.0\VariavelDataAtribuindo.pdb
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.AssemblyInfo.cs
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.sourcelink.json
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\refint\VariavelDataAtribuindo.dll
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.pdb
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\VariavelDataAtribuindo.genruntimeconfig.cache
+C:\Users\pc\Documents\Csharp\Exercicio_Fase_1\VariavelDataAtribuindo\obj\Debug\net9.0\ref\VariavelDataAtribuindo.dll
